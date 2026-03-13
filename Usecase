@@ -1,0 +1,68 @@
+User Story
+
+Al-Assisted Flexible Work & Life Balance Request System
+
+As a woman employee, I want to request those work arrangements such se working shift changes, and caregiving support with the assistance of Al. The Ai should pestr my request, track approval status, and monitor outcomes to ensure that worstelence in promoted fairly and consistently across the organization
+
+Expanded Details
+
+Request Initiation: Employees can submit requests for flexible work arrangements the an intuitive interface. The Al guides users to specify their needs te.g. WFH, shift changes, caregiving support) and captures relevant context such as timing, urgency, and supporting information.
+
+Al-Generated Justification: The Al analyzes the employee's informat reasoning, converting it into a professionally formatted justification, It suggests relevant request categories and references applicable company policies, ensuring the submission stigns with organizational guidelines.
+
+Approval Workflow: Requests are routed automatically to designated approvers based on organizational hierarchy and type of request.
+
+Policy Tagging: Each request is tagged with relevant company policies and procedures, helping both employees and managers understand the criteria for approval and ensuring compliance.
+
+Outcome Monitoring: The system tracks outcomes of approved or denied requests, enabling employees to receive feedback and suggestions for future submissions. The Al provides analytics on the effectiveness of flexible arrangements and their impact on work life balance.
+
+Functional Scope
+
+Request Intake: Guided submission process for flexible work arrangements.
+
+Al-Generated Justification: Intelligent conversion of informal reasoning to professional requests.
+
+Approval Workflow: Automated routing, tracking, and follow-up of requests.
+
+Policy Tagging: Linking requests to company policies for clarity and compliance.
+
+Outcome Monitoring: Feedback and analytics on request outcomes.
+
+Reporting dashboard
+Deliverables
+
+All the deliverables are expected to be of production-level quality, comprehensive and ensuring excellence in both content and look & feel.
+
+1. Functional requirements document
+
+2. Application Architecture and Architecture document
+
+3. Database design/Data Models-Ne JSON input of data, use any RDBMS, deliverables include logical model, physical model and ER diagram
+
+4. Ul/Ux/Wireframe Design
+
+5. Software code & Working Software
+
+6. Functional Test scripts in a CSV or Excel
+
+7. Traceability Matrix in CSV or Excel
+
+8. End User manual-Screens and help guide
+
+9. Al Agent-"Code Quality Checker" built with an Al framework and Streamlit or Gradio: takes code and checklist as input and provide observations against each checklist item and suggestions for improvements if any
+
+Instructions
+
+Use Al tools or Build Your Own Al Agents (BYOAA) to develop the software and deliverables.
+
+Selection of Tools: Carefully evaluate and select the most suitable Al tools or frameworks for each phase of the project. If building custom Al agents, ensure they are scalable, maintainable. Additional weightage will be given if team builds their own Al agent to create the deliverables.
+
+Quality Standards: Adhere strictly to coding standards and best practices for software development. Apply consistent design patterns, code reviews, and automated testing to maintain high quality.
+
+Integration: Ensure seamless integration of components with the overall application architecture.
+
+Testing: Prepare comprehensive test cases, including both functional and non-functional scenarios.
+
+Documentation: Maintain clear and detailed documentation for all deliverables, including architecture diagrams, data models, and user manuals. Update documents regularly as changes are made.
+
+User Experience: Prioritise a user-centric approach in UI/UX design. Avoid using Streamlit or Gradio for the user interface.
